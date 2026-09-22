@@ -1,0 +1,1 @@
+# altamino.js
